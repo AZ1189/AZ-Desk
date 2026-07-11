@@ -2,11 +2,11 @@
 
 Public installer-only repository for AZ-Desk.
 
-Version: 1.0.6
+Version: 1.0.7
 Installer: AZ-Desk-Setup.exe
-Size: 82,507,392 bytes
-SHA-256: a9cb126c94f3374686746d66c1c09bd181cfbdee8b554f7814e05a5aba2c8a8c
+Size: 82,499,808 bytes
+SHA-256: f350f95eee6429ee5e72acdbf1872d0a2000b61ac73a9159693ad66e897d1ca4
 
-Release notes: Version 1.0.6. Adds drag-on-empty-desktop Zone creation: draw a rectangle on the AZ-Desk layer, then choose Create Zone here or Create Folder Portal here. The desktop layer now accepts full-layer drag input while open so new Zones can be created directly where the user dragged.
+Release notes: Version 1.0.7. Aligns the installer notice and wizard art with the other AZ apps, fixes AZ-Desk branding to show the hyphenated logo, records monitor labels for Zones created by dragging on the desktop layer, and adds Zone in/out collapse and expand controls.
 
 Source code stays local-only and is not published in this repository.
