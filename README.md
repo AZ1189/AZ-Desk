@@ -2,11 +2,11 @@
 
 Public installer-only repository for AZ-Desk.
 
-Version: 1.0.4
+Version: 1.0.5
 Installer: AZ-Desk-Setup.exe
-Size: 82,485,816 bytes
-SHA-256: 41d0b5098f0fd5a928641802237b61bb3236012b15bbc0c5f00adf467fc7bd9e
+Size: 82,506,280 bytes
+SHA-256: 6df5750abf4a0c8f59a2d0612bcf4e3a1807bf5710612ccee92dd5eb2ce0ef10
 
-Release notes: Version 1.0.4. Adds AZ-Desk, the AZ desktop organizer with real Windows desktop layer support, AZ Dock controls, folder portals, and explicit real taskbar size/gap/rounding actions.
+Release notes: Version 1.0.5. Improves real desktop zone movement, multi-monitor layer bounds, direct layer resize/drag persistence, Windows shell icon rendering for portals and pins, smoother editor dragging, and transparent AZ-Desk app/installer icons.
 
 Source code stays local-only and is not published in this repository.
