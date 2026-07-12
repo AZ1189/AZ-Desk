@@ -2,11 +2,11 @@
 
 Public installer-only repository for AZ-Desk.
 
-Version: 1.0.9
+Version: 1.0.10
 Installer: AZ-Desk-Setup.exe
-Size: 82,602,368 bytes
-SHA-256: 1091a1cd92691829cee1201da523d88a04ee2e23d74dad771f7c7083a96310c4
+Size: 82,603,304 bytes
+SHA-256: 7f7eea0e70c626999d74c3f5a4e62a8aaf430a2101f6082b8e263ac83f2c7201
 
-Release notes: Version 1.0.9. Replaces the AZ-Desk mark with the exact red 3D AZ used by AZ Manager, enlarges the hyphenated -Desk wordmark, and refreshes the application icon, wide header, Windows ICO, AZ Manager card artwork and installer wizard graphics.
+Release notes: Version 1.0.10 adds real per-monitor taskbar move/resize/gap/rounding geometry, restores each monitor independently, migrates legacy combined-desktop zones to monitor-relative positions, and adds display-ID fallback for reconnects.
 
 Source code stays local-only and is not published in this repository.
